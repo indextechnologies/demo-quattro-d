@@ -164,8 +164,8 @@ export default function Home() {
               desde 1989
             </motion.p>
             <motion.h1
-              className="text-6xl font-light tracking-[0.12em] text-cream-light md:text-8xl lg:text-9xl"
-              style={{ fontFamily: "var(--font-inter)" }}
+              className="text-6xl tracking-[0.12em] text-green-light md:text-8xl lg:text-9xl"
+              style={{ fontFamily: "var(--font-inter)", fontWeight: 500 }}
               initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 3.6, duration: 0.9, ease: "easeOut" }}
             >
               quattro d

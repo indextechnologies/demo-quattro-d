@@ -53,7 +53,7 @@ export default function NuevasDelicias() {
             <div className="absolute -bottom-16 -left-16 h-64 w-64 rounded-full bg-green-mid/15" />
           </div>
           <div className="relative z-10">
-            <p className="text-xs uppercase tracking-[0.35em] text-cream-light/40">
+            <p className="text-sm tracking-[0.2em] text-green-light font-medium" style={{ fontFamily: "var(--font-inter)" }}>
               quattro d
             </p>
             <h1

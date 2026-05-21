@@ -30,7 +30,7 @@ export default function Contacto() {
       <main className="pt-24">
         {/* Hero */}
         <section className="bg-green-deep px-6 py-24 text-center">
-          <p className="text-xs uppercase tracking-[0.35em] text-cream-light/40">
+          <p className="text-sm tracking-[0.2em] text-green-light font-medium" style={{ fontFamily: "var(--font-inter)" }}>
             quattro d
           </p>
           <h1

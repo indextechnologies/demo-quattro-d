@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-3">
           {/* Brand */}
           <div>
-            <p className="text-2xl font-light tracking-[0.12em] text-cream-light" style={{ fontFamily: "var(--font-inter)" }}>
+            <p className="text-2xl tracking-[0.12em] text-green-light" style={{ fontFamily: "var(--font-inter)", fontWeight: 500 }}>
               quattro d
             </p>
             <p className="mt-1 text-xs tracking-[0.25em] uppercase text-cream-light/50">desde 1989</p>

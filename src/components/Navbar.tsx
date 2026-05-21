@@ -41,10 +41,10 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           href="/"
-          className={`text-xl font-light tracking-[0.12em] transition-colors ${
+          className={`text-xl tracking-[0.12em] transition-colors ${
             scrolled || !isHome || open ? "text-green-deep" : "text-cream-light"
           }`}
-          style={{ fontFamily: "var(--font-inter)" }}
+          style={{ fontFamily: "var(--font-inter)", fontWeight: 500 }}
         >
           quattro d
         </Link>

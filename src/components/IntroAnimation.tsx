@@ -112,7 +112,7 @@ export default function IntroAnimation() {
           {/* Logo */}
           <motion.h1
             className="mt-6 text-5xl tracking-wider text-cream-light"
-            style={{ fontFamily: "var(--font-inter)", fontWeight: 300, letterSpacing: "0.12em" }}
+            style={{ fontFamily: "var(--font-inter)", fontWeight: 500, letterSpacing: "0.12em" }}
             initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 1.4, ease: "easeOut" }}
