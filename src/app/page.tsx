@@ -31,7 +31,7 @@ const categorias = [
     icon: "🍦",
     label: "Copas Heladas",
     sub: "54 sabores artesanales",
-    img: "https://images.unsplash.com/photo-1567206563174-f87ea81e14b3?auto=format&fit=crop&w=600&q=80",
+    img: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?auto=format&fit=crop&w=600&q=80",
   },
   {
     icon: "🍰",
